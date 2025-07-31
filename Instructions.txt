@@ -1,0 +1,39 @@
+Usage
+-Launch the app (double-click main.exe or run python main.py).
+
+-Select computation
+
+  Contrast Computation → click OK.
+
+  SNR Computation → choose channel & ROI/Point mode, then click OK.
+
+  Choose the folder containing your images when prompted.
+
+  Process images
+
+   - Contrast: click two points per measurement, press n to next image, ESC to exit.
+
+   - SNR (ROI): click to select foreground points first, then press b to draw ROI(s), press n / ESC.
+
+   - SNR (Points): click to select foreground points first, then press b to select background points, press n / ESC.
+
+-Results are saved automatically in your folder:
+
+  - Contrast
+
+     contrast_results.xlsx
+
+     annotated-contrast/ → {image_name}_annotated.png
+
+  - SNR (ROI)
+
+     snr_results_roi.xlsx
+
+     annotated-snr-roi/
+
+  - SNR (Points)
+
+     snr_results_points.xlsx
+
+     annotated-snr-points/
+
