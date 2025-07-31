@@ -10,5 +10,5 @@ It lets you:
 - Exit anytime (ESC) without losing collected data.  
 
 
-👉 [Download latest executable from this Google Drive link]()
+👉 [Download latest executable from this Google Drive link](https://drive.google.com/drive/folders/1gwLhIt8de4xOIx4SHK9XLpGDNSpivaAg?usp=sharing)
 
