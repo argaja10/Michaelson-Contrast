@@ -1,5 +1,14 @@
-# Michaelson-Contrast
-Application to view images, select two points and compute contrast
+# Image Metric Selector
 
-👉 [Download latest executable from this Google Drive link](https://drive.google.com/file/d/11_D6E5Om4R8tPibHsB5JkxTW5NC1I5wt/view?usp=sharing)
+A lightweight PyQt5 Windows application for batch image analysis.  
+It lets you:
+
+- Compute Michaelson contrast by clicking point pairs.  
+- Measure SNR via ROI drawing or foreground/background point selection.  
+- Choose Red, Green, Blue or full RGB channels.  
+- Auto-save Excel results and annotated images.  
+- Exit anytime (ESC) without losing collected data.  
+
+
+👉 [Download latest executable from this Google Drive link]()
 
